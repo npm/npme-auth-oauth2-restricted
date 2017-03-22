@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.3.1"></a>
+## [1.3.1](https://github.com/npm/npme-auth-oauth2/compare/v1.3.0...v1.3.1) (2017-03-22)
+
+
+### Bug Fixes
+
+* don't check whitelist during the initial authentication dance ([59b281d](https://github.com/npm/npme-auth-oauth2/commit/59b281d))
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2017-03-22)
 

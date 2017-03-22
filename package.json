@@ -1,6 +1,6 @@
 {
   "name": "@bcoe/npme-auth-oauth2-restricted",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "auth strategy for OAuth 2.0 SSO.",
   "main": "index.js",
   "scripts": {
